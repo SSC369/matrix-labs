@@ -1,0 +1,8 @@
+.home-container-small {
+  background-color: black;
+  opacity: 0.9;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  min-height: 100vh;
+  padding: 40px 20px;
+}

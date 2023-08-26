@@ -1,0 +1,8 @@
+.large-screen-view {
+  display: flex;
+}
+.footer {
+  background: #f30050;
+  height: 30px;
+  width: 100%;
+}
